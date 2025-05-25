@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/micif/leetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/micif/leetCode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/micif/leetCode/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/micif/leetCode/tree/master/0392-is-subsequence) |
 ## String
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/micif/leetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/micif/leetCode/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/micif/leetCode/tree/master/0392-is-subsequence) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/micif/leetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
