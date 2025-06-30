@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/micif/leetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/micif/leetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/micif/leetCode/tree/master/0392-is-subsequence) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/micif/leetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Array
 |  |
 | ------- |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/micif/leetCode/tree/master/1137-height-checker) |
+## Simulation
+|  |
+| ------- |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/micif/leetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 <!---LeetCode Topics End-->
