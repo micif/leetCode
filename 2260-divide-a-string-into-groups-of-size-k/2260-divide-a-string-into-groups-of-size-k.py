@@ -1,16 +1,16 @@
 class Solution(object):
     def divideString(self, s, k, fill):
-        result=[]
-        str=""
-        for a in s:
-            if(len(str)<k):
-                str+=a
-            else:
-                result.append(str)
-                str=a
-        while(len(str)<k):
-            str+=fill
-        result.append(str)
+        result = []
+        current = []
+
+        for char in s:
+            current.append(char)
+            if len(current) == k:
+                result.append("".join(current))
+                current = []
+
+        if current:
+            current += [fill] * (k - len(current))
+            result.append("".join(current))
+
         return result
-            
-        
