@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/micif/leetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/micif/leetCode/tree/master/0392-is-subsequence) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/micif/leetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [3617-find-the-original-typed-string-i](https://github.com/micif/leetCode/tree/master/3617-find-the-original-typed-string-i) |
 ## Array
 |  |
 | ------- |
