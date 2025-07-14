@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/micif/leetCode/tree/master/0055-jump-game) |
 | [0169-majority-element](https://github.com/micif/leetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/micif/leetCode/tree/master/0189-rotate-array) |
+| [0898-transpose-matrix](https://github.com/micif/leetCode/tree/master/0898-transpose-matrix) |
 | [1137-height-checker](https://github.com/micif/leetCode/tree/master/1137-height-checker) |
 ## Hash Table
 |  |
@@ -83,5 +84,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/micif/leetCode/tree/master/0898-transpose-matrix) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/micif/leetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/micif/leetCode/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
